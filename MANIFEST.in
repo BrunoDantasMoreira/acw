@@ -1,0 +1,4 @@
+graft automatically_change_wallpaper
+include pyproject.toml
+include setup.py
+global-exclude *.py[cod]

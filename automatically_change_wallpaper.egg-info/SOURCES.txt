@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+pyproject.toml
+setup.py
+automatically_change_wallpaper/__init__.py
+automatically_change_wallpaper/__main__.py
+automatically_change_wallpaper/__version__.py
+automatically_change_wallpaper/cli.py
+automatically_change_wallpaper.egg-info/PKG-INFO
+automatically_change_wallpaper.egg-info/SOURCES.txt
+automatically_change_wallpaper.egg-info/dependency_links.txt
+automatically_change_wallpaper.egg-info/entry_points.txt
+automatically_change_wallpaper.egg-info/top_level.txt

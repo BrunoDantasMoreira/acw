@@ -1,0 +1,2 @@
+[console_scripts]
+acw = automatically_change_wallpaper:main
